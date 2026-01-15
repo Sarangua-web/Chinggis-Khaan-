@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>ᠴᠢᠩᠭᠢᠰ ᠬᠠᠭᠠᠨ • Chinggis Khaan • Solana</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+body {
+  margin: 0;
+  font-family: "Noto Serif", serif;
+  background: radial-gradient(circle at top, #0b1d2a, #050608 60%);
+  color: #e8d9b5;
+}
+
+/* Hero */
+header {
+  min-height: 100vh;
+  text-align: center;
+  padding: 120px 20px;
+  background:
+    linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.9)),
+    url("https://images.unsplash.com/photo-1549880338-65ddcdfd017b") center/cover no-repeat;
+}
+
+h1, h2 {
+  font-family: Cinzel, serif;
+  letter-spacing: 3px;
+}
+
+h1 {
+  font-size: 64px;
+  margin-bottom: 10px;
+  text-shadow: 0 0 35px rgba(255,200,120,0.5);
+}
+
+.subtitle {
+  font-size: 20px;
+  opacity: 0.9;
+  margin-bottom: 10px;
+}
+
+.mongol-script {
+  font-size: 22px;
+  opacity: 0.85;
+  margin-bottom: 30px;
+}
+
+.flag {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  margin: 10px;
+  padding: 15px 36px;
+  border-radius: 40px;
+  background: linear-gradient(90deg, #c9a24d, #f5d98b);
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: 1px;
+  transition: 0.25s;
+}
+
+.btn:hover {
+  transform: scale(1.08);
+}
+
+/* Sections */
+section {
+  max-width: 1100px;
+  margin: auto;
+  padding: 110px 20px;
+  text-align: center;
+}
+
+.ornament {
+  width: 220px;
+  height: 3px;
+  margin: 30px auto;
+  background: linear-gradient(90deg, transparent, #c9a24d, transparent);
+}
+
+/* Cards */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 25px;
+}
+
+.card {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(201,162,77,0.35);
+  border-radius: 20px;
+  padding: 35px;
+  backdrop-filter: blur(6px);
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 60px;
+  opacity: 0.7;
+  border-top: 1px solid rgba(201,162,77,0.3);
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="flag">🇲🇳</div>
+  <h1>CHINGGIS KHAAN</h1>
+  <div class="mongol-script">ᠴᠢᠩᠭᠢᠰ ᠬᠠᠭᠠᠨ • Чингис Хаан</div>
+  <div class="ornament"></div>
+  <div class="subtitle">Under the Eternal Blue Sky • Solana Meme Coin</div>
+
+  <a class="btn" href="#">Buy on Raydium</a>
+  <a class="btn" href="#">Chart</a>
+  <a class="btn" href="#">Telegram</a>
+</header>
+
+<section>
+  <h2>🐎 The Eternal Khan</h2>
+  <div class="ornament"></div>
+  <p>
+    Born as Temüjin on the vast Mongolian steppe, Chinggis Khaan united the nomadic tribes
+    and forged the largest contiguous empire in human history. Under the Eternal Blue Sky
+    (ᠮᠥᠩᠬᠡ ᠲᠡᠩᠭᠡᠷᠢ), his banners rode from the Pacific Ocean to Europe.
+    His legacy was not only conquest, but unity, law, and an unbreakable will.
+  </p>
+  <p>
+    Today, his spirit rides again — not on horseback, but on the Solana blockchain.
+    This coin is a tribute to strength, unity, and the unstoppable force of the steppe.
+  </p>
+</section>
+
+<section>
+  <h2>🪙 Tokenomics</h2>
+  <div class="ornament"></div>
+  <div class="grid">
+    <div class="card">Total Supply: 1,000,000,000</div>
+    <div class="card">Tax: 0%</div>
+    <div class="card">Liquidity: Burned 🔥</div>
+    <div class="card">Ownership: Renounced 👑</div>
+  </div>
+</section>
+
+<section>
+  <h2>📜 Roadmap of the Great Conquest</h2>
+  <div class="ornament"></div>
+  <div class="grid">
+    <div class="card">Phase I: The Steppe Awakens (Launch, Website, Community)</div>
+    <div class="card">Phase II: Unite the Tribes (Marketing, Listings, Memes)</div>
+    <div class="card">Phase III: The Great Expansion (CG, CMC, Influencers)</div>
+    <div class="card">Phase IV: The Eternal Empire 🌍</div>
+  </div>
+</section>
+
+<section>
+  <h2>⚔️ How to Join the Horde</h2>
+  <div class="ornament"></div>
+  <div class="grid">
+    <div class="card">1. Install Phantom Wallet</div>
+    <div class="card">2. Buy SOL</div>
+    <div class="card">3. Open Raydium or Jupiter</div>
+    <div class="card">4. Paste Contract Address & Buy</div>
+  </div>
+</section>
+
+<footer>
+  <p>🇲🇳 ᠴᠢᠩᠭᠢᠰ ᠬᠠᠭᠠᠨ • Chinggis Khaan • Under the Eternal Blue Sky</p>
+  <p>Solana Meme Coin • Not Financial Advice • Just Legend</p>
+</footer>
+
+</body>
+</html>
